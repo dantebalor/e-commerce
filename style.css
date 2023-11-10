@@ -1,0 +1,82 @@
+ul{
+list-style-type: none;
+background-color: aqua;
+margin: 0 10%;
+}
+a{
+    text-decoration: none;
+    
+    color: black
+ 
+}
+li{
+    display: inline-block;
+    
+    padding: 20px;
+}
+.top-heading{
+    margin: 3% 10%;
+}
+#men-section{
+    margin: 3% 10%;
+    
+}
+.col-item{
+    width: 27%;
+    height: 200px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 50px;
+}
+img{
+width: 80%;
+}
+    
+ .sure{
+    background-color: rgb(212, 255, 205);
+   color: blueviolet;
+ }
+ 
+    
+ 
+button{
+
+    padding: 5px 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+#description{
+
+ background-color:aqua;
+    margin: 5% 0%;
+    padding: 5% 0%;
+height: 500px }
+.item-row{ 
+    width 50%;
+    margin: 100px n;
+    text-align: left;
+    line-height: 2;
+    
+}
+.boot{
+    width: 25%;
+    float: left;
+    margin-left: 30%;
+    margin:  0% 4%;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cap{
+    width: 25%;
+    float: right;
+    margin-right: 30%;
+    margin:  2% 4%
+    
+}
+h3{
+    text-align: center;
+}
+
+
